@@ -15,4 +15,5 @@ Dependencies used
 
 Data used
 - 2019 Car Model Fuel efficiency data
+- sklearn iris dataset
 - A fictional data model on past hires based on previous employers, level of education, etc. 
