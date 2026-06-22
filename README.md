@@ -7,7 +7,7 @@ from the course _"Machine Learning, Data Science & AI Engineering with Python"_ 
 #### Course by Sundog Learning, Updated 2026 
 
 Dependencies used
-Python 3.12 on Miniforge
-scikit-learn
-matplotlib
+- Python 3.12 on Miniforge
+- scikit-learn
+- matplotlib
 
