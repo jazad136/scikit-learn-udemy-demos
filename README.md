@@ -12,6 +12,8 @@ Dependencies used
 - Pandas
 - scikit-learn
 - matplotlib
+- gymnasium
+- pygames
 
 Data used
 - 2019 Car Model Fuel efficiency data
